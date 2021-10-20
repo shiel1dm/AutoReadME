@@ -1,9 +1,9 @@
-# ReadME Gen
+# Auto-ReadME
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
-This project generates quality README's
+Generates a readme.md doc using a CLI
 
 ## Table of Contents 
 
@@ -29,15 +29,15 @@ npm i
 
 ## Usage
 
-Simply run npm start, then follow on screen prompts.
+simple run `node index.js` or `npm start` and follow the on screen prompt. Press Enter to confirm selection/inputs
 
 ## License
 
 This project is licensed under the MIT license.
   
-## Contributing
+## Credits
 
-n/a
+undefined
 
 ## Tests
 
@@ -49,5 +49,5 @@ npm test
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at test@gmail.com. You can find more of my work at [shiel1dm](https://github.com/shiel1dm/).
+If you have any questions about the repo, open an issue or contact me directly at run91.macg@gmail.com. You can find more of my work at [undefined](https://github.com/undefined/).
 
